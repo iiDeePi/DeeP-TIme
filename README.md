@@ -30,4 +30,18 @@ This HUD is ideal for enhancing immersion and providing players with a convenien
 **License:**
 © 2025 DeeP. All rights reserved.
 
+
+
+To view the interface
+
+<img width="275" height="540" alt="{7566812E-EBCC-4CC5-8900-E2A2D1BAC067}" src="https://github.com/user-attachments/assets/99990bf0-c2d3-4f02-9889-ffc2ac51d069" />
+
+
+To see it from another side
+
+
+<img width="319" height="151" alt="{C95E5277-F907-4BFA-8613-889BFF175DD1}" src="https://github.com/user-attachments/assets/1d688cd0-e671-43ba-b97b-f1cd40eeb3e2" />
+
+
+
 ----------------------------------------------------
